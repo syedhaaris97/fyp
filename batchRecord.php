@@ -2,7 +2,7 @@
 require 'db.php';
 $obj->is_login();
  ?>
-<!-- syedhaaris97@gmail.com -->
+
 <!DOCTYPE html>
 <html>
 
